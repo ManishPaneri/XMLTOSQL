@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<php id="0">
+		<mysql_database>configuration_xml</mysql_database>
+		<mysql_user>root</mysql_user>
+		<mysql_passwrod>root</mysql_passwrod>
+		<mysql_hostname>localhost</mysql_hostname>
+	</php>
+</root>
+
